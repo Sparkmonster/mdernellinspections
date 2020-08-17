@@ -1,0 +1,82 @@
+body #mySidenavMenuBtn {
+  background-image: url('../pics/bg3.jpg');
+  font-size:40px;
+  cursor:pointer;
+  text-align: left;
+  margin-bottom: 20px;
+  width: 100%;
+  color: white;
+}
+
+body header {
+  height: 400px;
+  width: 100%;
+  background-image: url('../pics/housebg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 0px
+  padding: 0
+}
+
+body #aboutsummary {
+  height: 150px;
+  /* width: 100%; */
+  /* text-align: inherit; */
+  font-size: 15px;
+  color: white;
+  background-image: url('../pics/bg2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* box-sizing:border-box; */
+	display: flex;
+  /* margin-top: auto;
+  margin-bottom: auto; */
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 40px;
+  padding-left: 30px;
+}
+
+
+.card {
+  width: 400px;
+  margin: 0 auto;
+  float: none;
+  background-image: url('../pics/bg2.jpg');
+  color: white;
+}
+
+#MarkCard {
+  background-image: url('../pics/bg2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#about-column1 {
+  background-image: url('../pics/bg2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#about-column2 {
+  background-image: url('../pics/radonChk.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#about-column3 {
+  background-image: url('../pics/inspect1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+}
+
+#about-column4 {
+  background-image: url('../pics/bg2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: 40px;
+  color: white;
+  text-align: left;
+  height: 600px;
+}

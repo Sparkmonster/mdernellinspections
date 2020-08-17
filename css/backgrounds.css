@@ -1,0 +1,124 @@
+body #mySidenavMenuBtn {
+  background-image: url('../pics/bg3.jpg');
+  font-size:40px;
+  cursor:pointer;
+  text-align: left;
+  margin-bottom: 20px;
+  width: 100%;
+  color: white;
+}
+
+.navbar-custom {
+    background-image: url('../pics/bg3.jpg');
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text{
+    color: #33db98;
+    cursor: pointer;
+}
+
+.navbar-custom .navbar-nav > li > a:hover, .navbar-custom .navbar-nav > li > a:focus {
+    color:  #33db98;
+    cursor: pointer;
+}
+
+.carousel-inner img {
+    height: 100%;
+    width: 100%;
+}
+
+body header {
+  height: 400px;
+  width: 100%;
+  background-image: url('../pics/housebg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 0px
+  padding: 0
+}
+
+body #firstsummary {
+  height: 220px;
+  /* width: 100%; */
+  /* text-align: inherit; */
+  font-size: 15px;
+  color: white;
+  background-image: url('../pics/bg2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* box-sizing:border-box; */
+	display: flex;
+  /* margin-top: auto;
+  margin-bottom: auto; */
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 40px;
+  padding-left: 30px;
+}
+
+/* Create two equal columns that floats next to each other */
+
+#service-column1 {
+  background-color: #33db98;
+  color: white;
+  text-align: left;
+  height: 200px;
+}
+
+#service-column2 {
+  background-image: url('../pics/bg5.jpg');
+  height: 200px;
+}
+
+#city-column1 {
+  background-image: url('../pics/bg3.jpg');
+  height: 200px;
+}
+
+#city-column2 {
+  background-color: #1184e8;
+  color: white;
+  text-align: left;
+  height: 200px;
+}
+
+#whyus-column1 {
+  background-color: #33db98;
+  color: white;
+  text-align: left;
+  height: 200px;
+}
+
+#whyus-column2 {
+  background-image: url('../pics/bg5.jpg');
+  height: 200px;
+}
+
+body footer {
+  width: 100%;
+  color: white;
+  background-image: url('../pics/bg3.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: -20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/* Smaller than standard 960 (devices and browsers) */
+@media only screen and (max-width: 959px) {}
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media only screen and (min-width: 768px) and (max-width: 959px) {}
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {}
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {}
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {}
+
+/* Clear floats after the columns */
