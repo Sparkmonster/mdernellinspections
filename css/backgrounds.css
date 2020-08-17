@@ -31,7 +31,7 @@ body #mySidenavMenuBtn {
 body header {
   height: 400px;
   width: 100%;
-  background-image: url('../pics/housebg.jpg');
+  background-image: url('../pics/housebg.png');
   background-repeat: no-repeat;
   background-size: cover;
   margin-bottom: 0px
