@@ -93,6 +93,7 @@ body #firstsummary {
 h3 {
   padding-top: 15px;
   color: #fff;
+  text-decoration: underline;
 }
 
 body footer {

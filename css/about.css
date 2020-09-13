@@ -75,8 +75,8 @@ body #aboutsummary {
   background-image: url('../pics/bg2.jpg');
   background-repeat: no-repeat;
   background-size: cover;
-  font-size: 40px;
+  font-size: 20px;
   color: white;
   text-align: left;
-  height: 600px;
+  height: 500px;
 }
