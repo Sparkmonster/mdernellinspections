@@ -10,6 +10,8 @@ body #mySidenavMenuBtn {
 
 .navbar-custom {
     background-image: url('../pics/bg3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .navbar-custom .navbar-brand,
@@ -29,9 +31,9 @@ body #mySidenavMenuBtn {
 }
 
 body header {
-  height: 400px;
+  height: 300px;
   width: 100%;
-  background-image: url('../pics/housebg.png');
+  background-image: url('../pics/housebg.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   margin-bottom: 0px
@@ -61,6 +63,8 @@ body #firstsummary {
 
 #service-column1 {
   background-color: #33db98;
+  background-repeat: no-repeat;
+  background-size: cover;
   color: white;
   text-align: left;
   height: 200px;
@@ -68,16 +72,22 @@ body #firstsummary {
 
 #service-column2 {
   background-image: url('../pics/bg5.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
   height: 200px;
 }
 
 #city-column1 {
   background-image: url('../pics/bg3.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
   height: 200px;
 }
 
 #city-column2 {
   background-color: #1184e8;
+  background-repeat: no-repeat;
+  background-size: cover;
   color: white;
   text-align: left;
   height: 200px;
@@ -85,6 +95,8 @@ body #firstsummary {
 
 #whyus-column1 {
   background-color: #33db98;
+  background-repeat: no-repeat;
+  background-size: cover;
   color: white;
   text-align: left;
   height: 200px;
@@ -92,6 +104,8 @@ body #firstsummary {
 
 #whyus-column2 {
   background-image: url('../pics/bg5.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
   height: 200px;
 }
 

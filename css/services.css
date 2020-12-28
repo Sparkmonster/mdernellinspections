@@ -9,9 +9,9 @@ body #mySidenavMenuBtn {
 }
 
 body header {
-  height: 400px;
+  height: 300px;
   width: 100%;
-  background-image: url('../pics/housebg.png');
+  background-image: url('../pics/housebg.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   margin-bottom: 0px
@@ -68,20 +68,27 @@ body #firstsummary {
 }
 
 #service-column2 {
-  background-image: url('../pics/bg5.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
   height: 200px;
 }
 
 #aboutRadonCol{
     background-image: url('../pics/bg1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #aboutRoofCol{
     background-image: url('../pics/bg4.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #aboutThermalCol{
-    background-image: url('../pics/bg5.jpg');
+    background-image: url('../pics/bg2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .hover {
